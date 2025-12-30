@@ -1,6 +1,6 @@
 # Laravel CRUD
 
-Projeto simples de CRUD em Laravel usando SQLite e e Bootstrap.
+Projeto simples de CRUD em Laravel usando SQLite e Bootstrap.
 
 ## Funcionalidades
 - Criar registros
